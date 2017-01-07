@@ -3,6 +3,7 @@ Bots for Dota2
 ######Taken from https://www.reddit.com/r/DotA2/comments/5lyk8l/pubsimulator_new_bots_for_dota_2/ which refers to https://drive.google.com/drive/folders/0B_EM8FzbqIOPOVJvd2lkSnZmR1k
 ######Written by PLATINUM (Pooya J. also known as PLATINUM_DOTA2) (https://www.reddit.com/user/PLATINUM_DOTA) (Email: platinum.dota2@gmail.com)
 ######Uploaded by Sebastian Oltmanns (contact: sebastian.oltmanns.developer@gmail.com)
+######If you clone it, you can copy the content from the repository to (path may vary from yours) : C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\scripts\vscripts and work from there via git
 ######Read bots/README.txt for further information by author
 ######Reddit-Post visited 07 Januar 2017:
 
