@@ -111,7 +111,7 @@ end
 
 local TrashTalk=
 {
-[6]="заткнуться Zeus",
+[6]="Заткнись Zeus",
 [767]="STOP FULJIKING BIIJCHING HEFH:OHEF"
 }
 
